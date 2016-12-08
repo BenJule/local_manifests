@@ -40,7 +40,7 @@
   <project name="SonyCM/android_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="cm-14.1" />
 
   <!-- sony hardware -->
-  <project name="SonyCM/android_hardware_sony_camera" path="hardware/sony/camera" remote="github" revision="cm-14.1_staging" />
+  <project name="nailyk-fr/android_hardware_sony_camera" path="hardware/sony/camera" remote="github" revision="cm-14.1_staging" />
   <project name="sonyxperiadev/thermanager" path="hardware/sony/thermanager" remote="github" revision="master" />
   <project name="sonyxperiadev/timekeep" path="hardware/sony/timekeep" remote="github" revision="master" />
   <project name="sonyxperiadev/macaddrsetup" path="hardware/sony/macaddrsetup" remote="github" revision="master" />
