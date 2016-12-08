@@ -17,15 +17,15 @@
   <project name="sonyxperiadev/packages-apps-FMRadio" path="packages/apps/FMRadio" remote="github" revision="master" />
 
   <!-- common -->
-  <project name="nailyk-fr/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-14.1-aosp_work2" />
+  <project name="nailyk-fr/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-14.1_staging" />
 
   <!-- rhine -->
   <project name="SonyCM/android_device_sony_rhine" path="device/sony/rhine" remote="github" revision="cm-14.1" />
   <project name="SonyCM/android_device_sony_honami" path="device/sony/honami" remote="github" revision="cm-14.1" />
 
   <!-- shinano -->
-  <project name="nailyk-fr/android_device_sony_shinano" path="device/sony/shinano" remote="github" revision="cm-14.1_work" />
-  <project name="nailyk-fr/android_device_sony_leo" path="device/sony/leo" remote="github" revision="cm-14.1_work2" />
+  <project name="nailyk-fr/android_device_sony_shinano" path="device/sony/shinano" remote="github" revision="cm-14.1_staging" />
+  <project name="nailyk-fr/android_device_sony_leo" path="device/sony/leo" remote="github" revision="cm-14.1_staging" />
 
   <!-- sony sepolicy -->
   <project name="sonyxperiadev/device-sony-sepolicy" path="device/sony/sepolicy" remote="github" revision="n-mr0" />
@@ -40,7 +40,7 @@
   <project name="SonyCM/android_hardware_qcom_media" path="hardware/qcom/media" remote="github" revision="cm-14.1" />
 
   <!-- sony hardware -->
-  <project name="SonyCM/android_hardware_sony_camera" path="hardware/sony/camera" remote="github" revision="cm-14.1" />
+  <project name="SonyCM/android_hardware_sony_camera" path="hardware/sony/camera" remote="github" revision="cm-14.1_staging" />
   <project name="sonyxperiadev/thermanager" path="hardware/sony/thermanager" remote="github" revision="master" />
   <project name="sonyxperiadev/timekeep" path="hardware/sony/timekeep" remote="github" revision="master" />
   <project name="sonyxperiadev/macaddrsetup" path="hardware/sony/macaddrsetup" remote="github" revision="master" />
